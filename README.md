@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:(https://your-solution-url.com)
+- Solution URL:(https://github.com/adepoju-oluwatobi/nft-preview-card-component.git)
 - Live Site URL:(https://your-live-site-url.com)
 
 ### Built with
